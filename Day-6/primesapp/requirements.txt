@@ -1,0 +1,2 @@
+ppackage @ file:///C:/Users/292905/Desktop/Python%20semicon/Day-6/primesapp
+setuptools==78.0.2

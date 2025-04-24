@@ -1,0 +1,13 @@
+Input 3 diffrent cordinates from the users
+Check the distance between these cordinates so that we will have 3 sides
+
+check wheather any 2 sides of these triangle is equal
+check the angle between these cordinates so that we will have 3 angles and check any of these angle
+ is a right angle
+
+If 2 sides are equal and and also have a right angle then print "Isoceles and right angle"
+
+if the triangle is right triangle and not isoceles then print "Only right angle"
+
+if the triangle is isoceles and not right angle the print only isoceles
+

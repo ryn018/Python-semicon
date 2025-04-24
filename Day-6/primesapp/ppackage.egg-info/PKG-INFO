@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: ppackage
+Version: 0.1
+Summary: Testing installation of prime
+Home-page: #
+Author: nithin
+Author-email: 
+License: MIT
+Dynamic: author
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary
