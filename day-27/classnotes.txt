@@ -1,1 +1,3 @@
 Initiliaze git on folder, Making it a Repository
+>git Init
+git config --global user.name 
